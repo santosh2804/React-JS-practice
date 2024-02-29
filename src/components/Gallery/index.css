@@ -1,0 +1,19 @@
+/* Write your code here. */
+.container {
+  padding: 50px;
+  font-family: 'roboto';
+}
+.primary-image {
+  width: 100%;
+}
+.heading {
+  color: #1e293b;
+}
+.photographer-name {
+  color: #64748b;
+}
+.thumbnail-items-container {
+  padding-left: 0px;
+  list-style-type: none;
+  display: flex;
+}

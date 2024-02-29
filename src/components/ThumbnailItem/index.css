@@ -1,0 +1,13 @@
+/* Write your code here. */
+.active-thumbnail {
+  margin-right: 20px;
+  opacity: 1;
+}
+.thumbnail {
+  margin-right: 20px;
+  opacity: 0.5;
+}
+.thumbnail-item {
+  border: 0px solid;
+  background-color: #ffffff;
+}
