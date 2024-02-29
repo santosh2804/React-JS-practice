@@ -1,0 +1,93 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.user-comment-card {
+  display: flex;
+}
+.user-initial {
+  width: 40px;
+  text-align: center;
+  padding: 8px 12px 8px 12px;
+  border-radius: 50%;
+  color: #ffffff;
+}
+.comment-info-card {
+  margin-left: 10px;
+}
+.user-name {
+  font-size: 18px;
+  color: #1e293b;
+}
+.comment-time {
+  font-size: 12px;
+  margin-left: 15px;
+  color: #475569;
+  font-weight: 300;
+}
+.comment {
+  color: #1e293b;
+  font-weight: 400;
+}
+.like-delete-btns-card {
+  display: flex;
+  justify-content: space-between;
+}
+.like-btn {
+  background-color: transparent;
+  border: 0px solid;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  color: #475569;
+}
+
+.liked-btn {
+  background-color: transparent;
+  border: 0px solid;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  color: #0b69ff;
+}
+.like-icon {
+  width: 20px;
+  margin-right: 10px;
+}
+.delete-btn {
+  background-color: transparent;
+  border: 0px solid;
+  cursor: pointer;
+}
+.delete-icon {
+  width: 20px;
+}

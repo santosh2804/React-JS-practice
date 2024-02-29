@@ -1,0 +1,59 @@
+/* Write your CSS here */
+.bg-container {
+  padding: 60px;
+  font-family: 'roboto';
+}
+.top-container {
+  display: flex;
+  justify-content: space-between;
+}
+.user-interface-card {
+  display: flex;
+  flex-direction: column;
+}
+.main-heading {
+  font-size: 36px;
+  color: #1e293b;
+}
+.caption {
+  margin-top: 45px;
+  margin-bottom: 5px;
+  color: #475569;
+  font-weight: 400;
+}
+.name-input {
+  margin-bottom: 10px;
+  padding: 5px;
+}
+.comment-input {
+  padding: 5px;
+  margin-bottom: 15px;
+}
+.add-comment-btn {
+  color: #ffffff;
+  background-color: #0284c7;
+  padding: 7px 10px 7px 10px;
+  border: 0px solid;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.image-card {
+  align-self: flex-end;
+}
+hr {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.count {
+  color: #ffffff;
+  background-color: #0284c7;
+  text-align: center;
+  padding: 5px;
+  padding-left: 7px;
+  border-radius: 3px;
+  margin-right: 5px;
+}
+.comments-card {
+  list-style-type: none;
+  padding-left: 0px;
+}
