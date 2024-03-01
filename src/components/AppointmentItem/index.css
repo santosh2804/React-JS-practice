@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.appointment-item {
+  border: 2px solid #b5b7c4;
+  border-radius: 15px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+  margin: 15px;
+  margin-right: 30px;
+  margin-left: 0px;
+}
+.appointment {
+  font-size: 18px;
+}
+.date-and-time {
+  color: #b5b7c4;
+  font-size: 14px;
+  font-weight: 500;
+}
+.favourite-icon-btn {
+  border: 0px solid;
+  background-color: transparent;
+  cursor: pointer;
+}
+.star-image {
+  width: 20px;
+  margin-top: 15px;
+}

@@ -1,0 +1,89 @@
+/* Write your CSS here */
+hr {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.bg-container {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-size: cover;
+  font-family: 'roboto';
+}
+.content-card {
+  width: 80%;
+  background-color: #ffffff;
+  padding: 50px;
+  border-radius: 20px;
+}
+.main-heading {
+  margin-bottom: 35px;
+}
+.title-input-card {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+.title {
+  margin-bottom: 5px;
+  font-size: 12px;
+  color: #b5b7c4;
+  font-weight: 600;
+}
+.title-input {
+  padding: 8px;
+}
+.date-input-card {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+.date {
+  margin-bottom: 5px;
+  font-size: 12px;
+  color: #b5b7c4;
+  font-weight: 600;
+}
+.date-input {
+  padding: 8px;
+}
+.add-btn {
+  border: 0px solid;
+  border-radius: 5px;
+  padding: 5px 12px 5px 12px;
+  background-color: #8b5cf6;
+  color: #ffffff;
+  margin-top: 15px;
+  cursor: pointer;
+}
+.appointment-img {
+  width: 400px;
+}
+.top-card {
+  display: flex;
+  justify-content: space-between;
+}
+.starred-btn-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.sub-heading {
+  font-size: 28px;
+}
+.appointments-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.starred-btn {
+  background-color: transparent;
+  border: 2px solid #8b5cf6;
+  border-radius: 20px;
+  padding: 6px 25px 6px 25px;
+  color: #8b5cf6;
+  cursor: pointer;
+}
