@@ -1,0 +1,12 @@
+.thumbnail-card {
+  width: 18%;
+  margin-bottom: 15px;
+}
+.thumbnail-btn {
+  border: 0px solid;
+  background-color: transparent;
+  cursor: pointer;
+}
+.thumbnail-image {
+  width: 100%;
+}

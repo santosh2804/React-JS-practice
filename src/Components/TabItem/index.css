@@ -1,0 +1,16 @@
+.tab-item-card {
+  color: #ffffff;
+  margin: 10px;
+}
+.tab-btn {
+  background-color: transparent;
+  border: 0px solid;
+  color: #ffffff;
+  font-size: 24px;
+  padding-bottom: 10px;
+  cursor: pointer;
+}
+.active-tab-btn {
+  color: #fec653;
+  border-bottom: 2px solid #fec653;
+}

@@ -1,0 +1,39 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 60px 10px 60px;
+  background-color: #2c0e3a;
+}
+.website-logo {
+  width: 200px;
+}
+.score-and-timer-card {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  padding-left: 0px;
+}
+.score-heading {
+  color: #ffffff;
+  margin-right: 20px;
+}
+.score {
+  color: #fec653;
+  font-size: 20px;
+}
+.timer-card {
+  display: flex;
+  align-items: center;
+}
+.timer-logo {
+  width: 25px;
+  margin-right: 5px;
+}
+.timer {
+  font-size: 20px;
+  color: #fec653;
+}
+.sec-heading {
+  color: #fec653;
+}
