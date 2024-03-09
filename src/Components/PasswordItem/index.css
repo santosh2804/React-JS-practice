@@ -1,0 +1,41 @@
+.password-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  width: 30%;
+  border: 1px solid #9ba9eb;
+  background-color: transparent;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  font-weight: 300;
+}
+.user-details-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.user-initial {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #10b981;
+  padding: 15px 20px 15px 20px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+.hashed-password {
+  width: 100px;
+}
+.delete-btn-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.delete-btn {
+  border: 0px solid;
+  background-color: transparent;
+  cursor: pointer;
+}
+.delete-icon {
+  width: 20px;
+}
