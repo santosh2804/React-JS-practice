@@ -1,0 +1,85 @@
+/* Write your CSS here */
+.match-card-bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+  color: #ffffff;
+  font-family: 'bree serif';
+}
+.dark-red {
+  background-image: linear-gradient(to bottom, #a4261d 70%, #ffffff33);
+}
+.violet {
+  background-image: linear-gradient(to bottom, #5755a7 70%, #ffffff33);
+}
+.red {
+  background-image: linear-gradient(to bottom, #d91c1f 70%, #ffffff33);
+}
+.yellow {
+  background-image: linear-gradient(to bottom, #f7db00 70%, #ffffff33);
+}
+.pink {
+  background-image: linear-gradient(to bottom, #da237b 70%, #ffffff33);
+}
+.blue {
+  background-image: linear-gradient(to bottom, #13418b 70%, #ffffff33);
+}
+.orange {
+  background-image: linear-gradient(to bottom, #f26d22 70%, #ffffff33);
+}
+.sky-blue {
+  background-image: linear-gradient(to bottom, #4f5db0 70%, #ffffff33);
+}
+.team-banner {
+  width: 100%;
+}
+.latest-match-heading {
+  align-self: flex-start;
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 30px;
+}
+.latest-match-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #1e293b;
+  padding: 40px;
+  width: 100%;
+  border-radius: 15px;
+}
+.date-venue-info-card {
+  width: 30%;
+}
+.competing-team-name {
+  font-size: 36px;
+  font-weight: 500;
+}
+.match-date {
+  font-size: 32px;
+}
+.match-venue {
+  font-size: 22px;
+}
+.match-result {
+  font-size: 22px;
+}
+.competing-team-logo {
+  width: 250px;
+}
+.result-card {
+  width: 30%;
+  text-align: right;
+}
+.latest-match-headings {
+  font-size: 28px;
+}
+.recent-matches-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+}

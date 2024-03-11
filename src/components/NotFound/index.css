@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.not-found-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+  color: #ffffff;
+  font-family: "bree serif";
+}
