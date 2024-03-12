@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.home-page {
+  padding: 10px 200px 10px 200px;
+}
+.home-page-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+}
+.content-card {
+  width: 45%;
+}
+.heading {
+  font-size: 42px;
+}
+.description {
+  color: #64748b;
+}
+.shop-now-btn {
+  color: #ffffff;
+  background-color: #0967d2;
+  padding: 10px 30px 10px 30px;
+  border: 0px solid;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.clothes-img {
+  width: 35%;
+}
